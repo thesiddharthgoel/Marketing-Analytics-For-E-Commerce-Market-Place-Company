@@ -7,6 +7,7 @@ Analytixlabs has hired you as an analyst for this project where client asked you
 driven insights about business and understand customer, seller behaviors, product behavior and
 channel behavior etc...
 While working on this project, you are expected to clean the data (if required) before analyze it.
+
 Available Data:
 Data has been provided for the period of Sep 2016 to Oct 2018 and the below is the data model.
 Tables:
