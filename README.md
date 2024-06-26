@@ -10,15 +10,16 @@ While working on this project, you are expected to clean the data (if required) 
 
 Available Data:
 Data has been provided for the period of Sep 2016 to Oct 2018 and the below is the data model.
-Tables:
-Customers: Customers information
-Sellers: Sellers information
-Products: Product information
-Orders: Orders info like ordered, product id, status, order dates etc..
-Order_Items: Order level information
-Order_Payments: Order payment information
-Order_Review_Ratings: Customer ratings at order level
-Geo-Location: Location details
+
+Tables:</br>
+Customers: Customers information</br>
+Sellers: Sellers information</br>
+Products: Product information</br>
+Orders: Orders info like ordered, product id, status, order dates etc..</br>
+Order_Items: Order level information</br>
+Order_Payments: Order payment information</br>
+Order_Review_Ratings: Customer ratings at order level</br>
+Geo-Location: Location details</br>
 
 Business Objective:
 The below are few Sample business questions to be addressed as part of this analysis. However this
